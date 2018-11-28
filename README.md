@@ -1,47 +1,17 @@
 # My settings
 
-The settings how I use on my developing ecosystem. Include settings of vscode and git.
+The settings what I use on my developing ecosystem. Include settings of vscode and git.
 
-## Git Aliases
+Feel free to contribute :)
 
-### Install
+## Instalation
 ```bash
-$ sh git-aliases.sh
+bash install.sh
 ```
 
-### Aliases
+## List of settings
 
-#### git checkout "branch" 
-```bash
-$ git co feature/branch-name
-```
+You can find more details on each of this options below:
 
-#### git checkout master
-```bash
-$ git master
-```
-
-#### git branch
-```bash
-$ git br
-```
-
-#### git commit -m "message"
-```bash
-$ git ci -m "message"
-```
-
-#### git status
-```bash
-git st
-```
-
-#### git log -1 HEAD
-```bash
-git last
-```
-
-#### git log -1 reset HEAD -- file.js
-```bash
-git unstage file.js
-```
+* [Git aliases](https://github.com/salesgu/my-settings/blob/master/git/README.md)
+* [Visual Studio Code](https://github.com/salesgu/my-settings/blob/master/vscode/README.md)

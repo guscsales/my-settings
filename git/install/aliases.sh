@@ -1,6 +1,8 @@
 #bash
 
+echo "-----------------------------------------"
 echo "Creating git aliases..."
+echo "-----------------------------------------"
 
 git config --global alias.co checkout
 echo "git co: created"
