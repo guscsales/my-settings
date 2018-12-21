@@ -30,3 +30,6 @@ echo "git aa: created"
 
 git config --global alias.po 'push origin --'
 echo "git po: created"
+
+git config --global alias.revertci 'reset --soft HEAD^'
+echo "git revertci: created"
