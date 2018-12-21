@@ -53,3 +53,8 @@ git aa
 ```bash
 git po branch
 ```
+
+#### git reset --soft HEAD^
+```bash
+git revertci
+```
