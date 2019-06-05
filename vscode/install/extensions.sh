@@ -11,7 +11,11 @@ extensions=(
     'mikestead.dotenv'
     'PeterJausovec.vscode-docker'
     'robertohuertasm.vscode-icons'
-    'wayou.vscode-todo-highlight'
+    'wayou.vscode-todo-highlight',
+    'vscode-icons-team.vscode-icons',
+    'MS-vsliveshare.vsliveshare',
+    'zxh404.vscode-proto3',
+    'mauve.terraform'
 )
 
 echo "-----------------------------------------"
